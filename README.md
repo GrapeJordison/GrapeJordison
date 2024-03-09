@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on audit of documents and contracts
+- 🌱 I’m currently learning Data Science on Comunidade DS
+- ⚡ One fact about: I love cats 😻
+
+
 <!--
 **GrapeJordison/GrapeJordison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
