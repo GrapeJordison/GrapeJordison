@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+____________________________________________________________________________
+
+<h3>Some Tools</h3>
+- Python
+- Streamlit
