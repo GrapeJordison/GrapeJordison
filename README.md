@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 ____________________________________________________________________________
 
 <h3>Some Tools</h3>
-- Python
-- Streamlit
+- Python <br>
+- Streamlit <br>
